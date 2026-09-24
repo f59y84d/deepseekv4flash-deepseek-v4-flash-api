@@ -1,0 +1,14 @@
+{
+  "repo": "deepseekv4flash-deepseek-v4-flash-api",
+  "model": "deepseek-v4-flash",
+  "display": "DeepSeek V4 Flash",
+  "variant": "llm",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_million_tokens",
+  "tiers": {
+    "input": 0.3428568,
+    "cached_input": 0.0685712,
+    "output": 1.0285712
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
