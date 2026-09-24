@@ -2,7 +2,7 @@
 
 > **input $0.3429; cached_input $0.0686; output $1.0286** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-af6a50)** · **[Get an API key](https://go.apimart.ai/k-227c05)**
 
 Everything here refers to **deepseek-v4-flash** — also written **deepseekv4flash** or **deepseek v4 flash**.
 
